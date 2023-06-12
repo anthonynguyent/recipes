@@ -2,6 +2,8 @@
 
 This project is an HTML website designed to showcase various recipes. It serves as a platform to explore different culinary creations and provides easy access to three delicious recipes.
 
+Accessible link: https://anthonynguyent.github.io/recipes/ 
+
 ## Features
 
 - **Recipe Showcase:** The website displays a collection of mouth-watering recipes, each with its own dedicated page.
