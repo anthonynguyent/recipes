@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipes HTML Website
 
 This project is an HTML website designed to showcase various recipes. It serves as a platform to explore different culinary creations and provides easy access to three delicious recipes.
 
