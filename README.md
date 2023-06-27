@@ -2,8 +2,6 @@
 
 This project is an HTML website designed to showcase various recipes. It serves as a platform to explore different culinary creations and provides easy access to three delicious recipes.
 
-Accessible link: https://anthonynguyent.github.io/recipes/ 
-
 ## Features
 
 - **Recipe Showcase:** The website displays a collection of mouth-watering recipes, each with its own dedicated page.
@@ -20,6 +18,20 @@ Accessible link: https://anthonynguyent.github.io/recipes/
 
 Feel free to customize the website, add more recipes, or modify the existing content to suit your preferences or project requirements.
 
----
+## Demo
 
-Enjoy the culinary journey with our Recipe Showcase Website! Happy cooking!
+You can view a live demo of the project [here](https://anthonynguyent.github.io/recipes/).
+
+## Screenshots
+
+![Home Screen](screenshots/home%20screen.png)
+*Player Input*
+
+![Link 1](screenshots/link%201.png)
+*Awesome Pasta Salad*
+
+![Link 2](screenshots/link%202.png)
+*Restaurant-Style Potato Salad*
+
+![Link 3](screenshots/link%203.png)
+*Crunchy Ramen Broccoli Slaw*
