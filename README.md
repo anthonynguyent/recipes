@@ -25,7 +25,7 @@ You can view a live demo of the project [here](https://anthonynguyent.github.io/
 ## Screenshots
 
 ![Home Screen](screenshots/home%20screen.png)
-*Player Input*
+*Home Screen with 3 Links to Recipes*
 
 ![Link 1](screenshots/link%201.png)
 *Awesome Pasta Salad*
